@@ -23,7 +23,9 @@ Content Management System for Movies.
 ---
 
 >Main Page
+
 ![Screenshot](mainpage.gif)
 
 >Movies Page
+
 ![Screenshot](movies.gif)
