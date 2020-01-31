@@ -14,8 +14,6 @@ Content Management System for Movies.
 
 - Ajax feautures using jquery
 
----
-
 >Backend Technologies used
 
 - PHP
@@ -24,6 +22,6 @@ Content Management System for Movies.
 
 ---
 
-##`Main Page`
+`Main Page`
 
 ![Screenshot](mainpage.gif)
