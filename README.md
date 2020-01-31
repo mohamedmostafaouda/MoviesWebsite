@@ -14,6 +14,8 @@ Content Management System for Movies.
 
 - Ajax feautures using jquery
 
+- Bootstrap
+
 `Backend Technologies used`
 
 - PHP
