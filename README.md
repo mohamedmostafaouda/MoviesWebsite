@@ -4,7 +4,7 @@ Content Management System for Movies.
 
 ![Screenshot](Untitled.png)
 
->Frontend Technologies used
+>#Frontend Technologies used
 
 - HTML & CSS
 
@@ -14,7 +14,7 @@ Content Management System for Movies.
 
 - Ajax feautures using jquery
 
->Backend Technologies used
+>#Backend Technologies used
 
 - PHP
 
