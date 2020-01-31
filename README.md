@@ -17,3 +17,6 @@ Content Management System for Movies.
 **Backend Technologies used**
 
 >PHP
+
+>MYSQL
+
