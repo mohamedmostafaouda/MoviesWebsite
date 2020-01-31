@@ -20,6 +20,6 @@ Content Management System for Movies.
 
 - MYSQL
 
-**Main Page**
+`Main Page`
 
 ![Screenshot](mainpage.gif)
