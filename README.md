@@ -4,6 +4,7 @@ Content Management System for Movies.
 **Frontend Technologies used**
 >HTML & CSS
 >Javascript
->Jquery <b>Ajax</b>
+>Jquery 
+>Ajax feautures using jquery
 **Backend Technologies used**
 >PHP
